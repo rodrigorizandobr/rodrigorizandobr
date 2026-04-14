@@ -8,12 +8,12 @@
 
 ### 🚀 About Me
 
-I am a technology leader with over **22 years of experience** in development, architecture, and management.[1] Currently, I serve as an **Engineering Manager at banQi (Casas Bahia)**, where I lead high-performance teams of over 40 professionals focused on high-impact credit and financial products.[1]
+I am a technology leader with over **22 years of experience** in development, architecture, and management.[3] Currently, I serve as an **Engineering Manager at banQi (Casas Bahia)**, where I lead high-performance teams of over 40 professionals focused on high-impact credit and financial products.[3]
 
-  - 🧠 **Current Focus:** Pursuing an specialization in **Artificial Intelligence & Machine Learning Engineering** at FIAP.[1]
-  - 💼 **Background:** Strategic leadership roles at **Natura Pay, Bankly, Itaú, Santander, and Serasa Experian**.[1]
-  - 📈 **Expertise:** Strategic management of complex budgets (Capex/Opex), OKRs, digital transformation, and microservices architecture.[1]
-  - 🎯 **Mission:** Bridging the gap between technical excellence and business vision to deliver scalable digital products.[1]
+  - 🧠 **Current Focus:** Pursuing a specialization in **Artificial Intelligence & Machine Learning Engineering** at FIAP.[3]
+  - 💼 **Background:** Strategic leadership roles at **Natura Pay, Bankly, Itaú, Santander, and Serasa Experian**.[3]
+  - 📈 **Expertise:** Strategic management of complex budgets (Capex/Opex), OKRs, digital transformation, and microservices architecture.[3]
+  - 🎯 **Mission:** Bridging the gap between technical excellence and business vision to deliver scalable digital products.[3]
 
 -----
 
@@ -23,9 +23,9 @@ My profile combines strategic management with deep technical knowledge:
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **Management** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-OKRs-orange%3Fstyle%3Dflat-square)\!([https://img.shields.io/badge/-Strategic%20Planning-success?style=flat-square](https://www.google.com/search?q=https://img.shields.io/badge/-Strategic%2520Planning-success%3Fstyle%3Dflat-square)) |
-| **Engineering** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-AWS-232F3E%3Fstyle%3Dflat-square%26logo%3Damazon-aws) |
-| **Data & AI** |\!([https://img.shields.io/badge/-SQL-4479A1?style=flat-square\&logo=postgresql](https://www.google.com/search?q=https://img.shields.io/badge/-SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dpostgresql)) |
+| **Management** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-OKRs-orange%3Fstyle%3Dflat-square)\!(https://img.shields.io/badge/-Strategic%2520Planning-success%3Fstyle%3Dflat-square) |
+| **Engineering** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-AWS-232F3E%3Fstyle%3Dflat-square%26logo%3Damazon-aws)\!(https://img.shields.io/badge/-Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker) |
+| **Data & AI** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dpostgresql) |
 
 -----
 
@@ -42,7 +42,7 @@ My profile combines strategic management with deep technical knowledge:
 
 I am passionate about technology and always open to discussing tech strategy, AI, or fintech innovations.
 
-[](https://www.google.com/search?q=https://www.linkedin.com/in/rodrigorizando)
+[](https://www.google.com/search?q=%5Bhttps://www.linkedin.com/in/rodrigorizando%5D\(https://www.linkedin.com/in/rodrigorizando\))
 [](mailto:rodrigorizando@gmail.com)
 
 \<p align="right"\>
