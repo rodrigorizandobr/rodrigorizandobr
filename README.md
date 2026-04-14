@@ -2,8 +2,8 @@
 
 **Engineering Manager | Fintech Specialist | AI & ML Specialist**
 
-<div align="center"\>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&width=435\&lines=Engineering+Manager;Fintech+Specialist;AI+%26+ML+Specialist;Tech+Leader" alt="Typing SVG" /\>
+<div align="left"\>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&width=435\&lines=Engineering+Manager;Fintech+Specialist;AI+%26+ML+Specialist;Tech+Leader" alt="" /\>
 </div\>
 
 ### 🚀 About Me
@@ -23,15 +23,15 @@ My profile combines strategic management with deep technical knowledge [5, 4]:
 
 | Category | Technologies & Skills |
 | :--- | :--- |
-| **Management** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-OKRs-orange%3Fstyle%3Dflat-square)\!(https://img.shields.io/badge/-Strategic%2520Planning-success%3Fstyle%3Dflat-square) |
-| **Engineering** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-AWS-232F3E%3Fstyle%3Dflat-square%26logo%3Damazon-aws)\!(https://img.shields.io/badge/-Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker) |
-| **Data & AI** |\!(https://www.google.com/search?q=https://img.shields.io/badge/-SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dpostgresql) |
+| **Management** | https://www.google.com/search?q=https://img.shields.io/badge/-OKRs-orange%3Fstyle%3Dflat-square)\!(https://img.shields.io/badge/-Strategic%2520Planning-success%3Fstyle%3Dflat-square |
+| **Engineering** | https://www.google.com/search?q=https://img.shields.io/badge/-AWS-232F3E%3Fstyle%3Dflat-square%26logo%3Damazon-aws)\!(https://img.shields.io/badge/-Docker-2496ED%3Fstyle%3Dflat-square%26logo%3Ddocker |
+| **Data & AI** | https://www.google.com/search?q=https://img.shields.io/badge/-SQL-4479A1%3Fstyle%3Dflat-square%26logo%3Dpostgresql |
 
 -----
 
 ### 📊 GitHub Stats
 
-<div align="center"\>
+<div align="left"\>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigorizandobr\&show\_icons=true\&theme=radical\&include\_all\_commits=true\&count\_private=true" /\>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorizandobr\&layout=compact\&theme=radical" /\>
 </div\>
