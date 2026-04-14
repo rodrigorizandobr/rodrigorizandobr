@@ -3,7 +3,7 @@
 **Engineering Manager | Fintech Specialist | AI & ML Specialist**
 
 <div align="left"\>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=22\&pause=1000\&color=36BCF7\&width=435\&lines=Engineering+Manager;Fintech+Specialist;AI+%26+ML+Specialist;Tech+Leader" alt="" /\>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Engineering+Manager;Fintech+Specialist;AI+%26+ML+Specialist;Tech+Leader" alt="" /\>
 </div\>
 
 ### 🚀 About Me
@@ -32,8 +32,8 @@ My profile combines strategic management with deep technical knowledge [5, 4]:
 ### 📊 GitHub Stats
 
 <div align="left"\>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigorizandobr\&show\_icons=true\&theme=radical\&include\_all\_commits=true\&count\_private=true" /\>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorizandobr\&layout=compact\&theme=radical" /\>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigorizandobr&show\_icons=true&theme=radical&include\_all\_commits=true&count\_private=true" /\>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorizandobr&layout=compact&theme=radical" /\>
 </div\>
 
 -----
@@ -45,6 +45,6 @@ I am passionate about technology and always open to discussing tech strategy, AI
 ([https://www.linkedin.com/in/rodrigorizando](https://www.google.com/search?q=https://www.linkedin.com/in/rodrigorizando))
 (mailto:rodrigorizando@gmail.com)
 
-<p align="right"\>
+<p align="left"\>
 <img src="https://komarev.com/ghpvc/?username=rodrigorizandobr&color=blue&style=flat-square" alt="Profile Views" /\>
 </p\>
