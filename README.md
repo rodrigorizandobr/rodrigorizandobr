@@ -46,5 +46,5 @@ I am passionate about technology and always open to discussing tech strategy, AI
 (mailto:rodrigorizando@gmail.com)
 
 <p align="right"\>
-<img src="https://komarev.com/ghpvc/?username=rodrigorizandobr\&color=blue\&style=flat-square" alt="Profile Views" /\>
+<img src="https://komarev.com/ghpvc/?username=rodrigorizandobr&color=blue&style=flat-square" alt="Profile Views" /\>
 </p\>
