@@ -31,10 +31,10 @@ My profile combines strategic management with deep technical knowledge [5, 4]:
 
 ### 📊 GitHub Stats
 
-<div align="left"\>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigorizandobr&show\_icons=true&theme=radical&include\_all\_commits=true&count\_private=true" /\>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigorizandobr&layout=compact&theme=radical" /\>
-</div\>
+<div align="center">
+<img height="180em" src="https://github-readme-stats.shion.dev/api?username=rodrigorizandobr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigorizandobr&layout=compact&theme=radical" />
+</div>
 
 -----
 
