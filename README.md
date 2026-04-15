@@ -1,10 +1,6 @@
 # Rodrigo Matheus 👋
 
-**Engineering Manager | Fintech Specialist | AI & ML Specialist**
-
-<div align="left"\>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=435&lines=Engineering+Manager;Fintech+Specialist;AI+%26+ML+Specialist;Tech+Leader" alt="" /\>
-</div\>
+**Engineering Manager | Tech Specialist | AI & ML Specialist**
 
 ### 🚀 About Me
 
@@ -31,7 +27,7 @@ My profile combines strategic management with deep technical knowledge [5, 4]:
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<div align="right">
 <img height="180em" src="https://github-readme-stats.shion.dev/api?username=rodrigorizandobr&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=rodrigorizandobr&layout=compact&theme=radical" />
 </div>
